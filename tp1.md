@@ -107,7 +107,10 @@ Pour les lignes de 10 à 20 :
 Find –name passwd
 22.
  echo find –name passwd >>/list_passwd_files.txt 2>>/dev/null
+ 
+23.
  2gr3. ep -R 'll '
+
 25. 
 
 ## Exercice 3
