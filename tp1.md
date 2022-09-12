@@ -111,9 +111,22 @@ Find –name passwd
 24. 
 25. 
 
-## Exercice 3 
+## Exercice 3
+1.
+cp /var/log/syslog /home/User
+mv syslog log.txt
+nano log.txt
+
+2.
+
+altgr  ctrl 8
+kernel noyau a replace all
+ 3.
+ 
+ 4a. lt U Undo
+5. ctrl x enregistrer
 
 ## Exercice 4 
 
 
-Mathilde Rubi**
+*Mathilde Rubi
