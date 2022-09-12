@@ -1,6 +1,6 @@
-**Compte-rendu TP1
+#Compte-rendu TP
 
-Partie 2 : 
+##Partie2
 Manuel
 1.	Which : localiser la commande
 2.	Avec man –k mot clé
@@ -109,10 +109,6 @@ Find –name passwd
 
 Exercice 3 
 
-
-
-
-convertir sur convertisseur online docx vers md internet vertopal.com
 
 
 Mathilde Rubi**
