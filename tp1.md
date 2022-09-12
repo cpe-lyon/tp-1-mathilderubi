@@ -5,52 +5,62 @@ Manuel
 1.	Which : localiser la commande
 2.	Avec man –k mot clé
 3.	En appuyant sur q
+![img1](image/image1.png)
  
 4.	 Cette section traite des jeux et petits programmes du système.
+![img2](image/image2.png)
  
 
 Navigation
-1.	 
-2.	 
-3.	 
-4.	 
-5.	 
-6.	 
-7.	 
+1.	 [img3](imag/image3.png)
+2.	 [image4](image/image4.png)
+3.	 [img5](image/image5.png)
+4.	 [img6](image/image6.png)
+5.	 [img7](image/image7.png)
+6.	 [img8](image/image8.png)
+7.	 [img9](image/image9.png)
+8.	 [img10](image/image10.png)
+9.	 [img11](image/image11.png)
+10.	 [img12](image/image12)
+11.	 [img13](image/image13.png)
  
 8.	Suppression de fichier1
- 
+ [img14](image/image14/png)
 Suppression de dossier1
- 
+ [img15](image/image15.png)
 
 9.	La commande rmdir permet de supprimer un dossier vide
 10.	Ne fonctionne pas, le dossier doit être vide
- 
+ [img16](image/image16.png)
 11.	Il faut utiliser la commande rm –r ou Rm –rf pour forcer à tout effacer
- 
+ [img17](image/image17.png)
+ [img18](image/image18.png)
  
 Tout est effacé
 Commandes importantes
 1.	La commande date permet d’afficher l’heure
- 
+ [img19](image/image19.png)
 La commande time sert à visualiser les temps d’exécution des commandes
-2.	 
+2.	 [img20](image/image20.png)
 Les fichiers commençant par un point sont des fichiers cachés
 3.	Le programme ls se situe dans /usr/bin/ls
-  
-4.	 
+  [img21](image/image21.png)
+  [img22](image/image22.png)
+4.
+[img23](image/image23.png)
 Cette commande affiche les détails des fichiers
-5.	 
+5.	 [img24](image/image24.png)
 6.	La commande ls .. affiche les dossiers du dossier parent à là où on se situe
-7.	  
+[img25](image/image25.png)
 La commande pwd
 8.	Ecrit bip dans un fichier plop, l’exécuter plusieurs fois écrase et réécrit le contenu du fichier plop
 9.	Ecrit bip dans un fichier plop, l’exécuter plusieurs fois ajoute le texte à la suite du fichier plop
 10.	Enlève la saisie pendant 10 secondes, mets le système en pause tout en affichant le texte ‘toto’
- 
-11.	 
+ [img26](image/image26.png)
+11.	 [img27](image/image27.png)
 Donne le type de fichier
-12.	 
+12.	 [img28](image/image28.png)
+13.	 [img29](image/image29.png)
  
  
  
