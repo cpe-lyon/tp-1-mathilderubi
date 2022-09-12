@@ -61,42 +61,43 @@ La commande pwd
 Donne le type de fichier
 12.	 [img28](image/image28.png)
 13.	 [img29](image/image29.png)
- 
- 
- 
- 
-Le contenu de lien_phy est le même que le fichier original
- 
-Le fichier original n’existe plus mais le contenu de lien_phy est inchangé
+[img30](imagr/image30.png)
+[img31](image/imag31.png)
+[img32](image/image32.png)
 
+Le contenu de lien_phy est le même que le fichier original
+ [img33](image/image33.png)
+Le fichier original n’existe plus mais le contenu de lien_phy est inchangé
+[img34](image/image34.png)
 13.	 
 Lorsqu’on change le contenu de lien_sym est le même que le contenu de lien_phy.
 La même chose pour la situation inverse
- 
+[img35](image/image35.png)
 
 Lorsqu’on supprime lien_phy, lien_sym est aussi supprimé
- 
+[img36](image/image36.png)
 
 14.	Le raccourci ctrl+s stoppe le défilement, le raccourci ctrl+q reprend le défilement
 15.	La commande head affiche les 10 premières lignes
-
+[img37](image/image37.png)
  
  
 Sinon spécifier le nb de lignes avec head –n, ici 5
- 
+[img38](image/image38.png)
 
 Pour les 15 dernières, utiliser la commande tail -15
- 
+[img39](image/image39.png)
 Pour les lignes de 10 à 20 : 
- 
+[img40](image/image40.png)
 
 16.
 17.  
- 
+[img41](image/image41.png)
+[img42](image/image42.png)
 18. avec la commande sort –k1
 
 19. La commande wc -l 
- 
+[img43](image/imagfe43.png)
 20. 
 21. 
 Find –name passwd
