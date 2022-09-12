@@ -1,7 +1,7 @@
 # Compte-rendu TP
 
 ## Partie 2
-Manuel
+### Manuel
 1.	Which : localiser la commande
 2.	Avec man –k mot clé
 3.	En appuyant sur q
@@ -10,8 +10,8 @@ Manuel
 4.	 Cette section traite des jeux et petits programmes du système.
 ![img2](image/image2.png)
  
-
-Navigation
+ 
+ #Na ##vigation dans l'arborescence des fichiers
 1.	 [img3](imag/image3.png)
 2.	 [image4](image/image4.png)
 3.	 [img5](image/image5.png)
