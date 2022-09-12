@@ -1,6 +1,7 @@
 # Compte-rendu TP
 
-## Partie 2
+## Exercice 2 
+
 ### Manuel
 1.	Which : localiser la commande
 2.	Avec man –k mot clé
@@ -11,7 +12,8 @@
 ![img2](image/image2.png)
  
  
- #Na ##vigation dans l'arborescence des fichiers
+### Navigation dans l'arborescence des fichiers
+
 1.	 [img3](imag/image3.png)
 2.	 [image4](image/image4.png)
 3.	 [img5](image/image5.png)
@@ -37,7 +39,9 @@ Suppression de dossier1
  [img18](image/image18.png)
  
 Tout est effacé
-Commandes importantes
+
+### Commandes impoirtantes
+
 1.	La commande date permet d’afficher l’heure
  [img19](image/image19.png)
 La commande time sert à visualiser les temps d’exécution des commandes
@@ -107,8 +111,9 @@ Find –name passwd
 24. 
 25. 
 
-Exercice 3 
+## Exercice 3 
 
+## Exercice 4 
 
 
 Mathilde Rubi**
