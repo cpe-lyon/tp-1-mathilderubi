@@ -1,6 +1,6 @@
-#Compte-rendu TP
+# Compte-rendu TP
 
-##Partie2
+## Partie 2
 Manuel
 1.	Which : localiser la commande
 2.	Avec man –k mot clé
