@@ -1,4 +1,4 @@
-# Compte-rendu TP
+# Compte-rendu TP1
 *Mathilde Rubi*
 
 ## Exercice 2 
